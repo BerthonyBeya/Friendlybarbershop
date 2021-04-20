@@ -1,0 +1,22 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "A barbershop website",
+  "main": "index.js",
+  "author": "Berthony",
+  "scripts": {
+    "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' sass/main.css -o dist/css/main.prefix.css",
+    "compress:css":"node-sass dist/css/main.prefix.css dist/css/main.min.css --output-style compressed"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lightgallery.js": "^1.4.0",
+    "vanillajs-scrollspy": "^2.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "postcss-cli": "^8.3.1",
+    "postcss-loader": "^5.2.0"
+  }
+}

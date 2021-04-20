@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="347.501" height="72" viewBox="0 0 347.501 72">
+  <g id="Group_15" data-name="Group 15" transform="translate(-484 -280)">
+    <g id="Group_14" data-name="Group 14" transform="translate(91 -28)">
+      <g id="Group_10" data-name="Group 10" transform="translate(-466 -72.395)">
+        <text id="V" transform="translate(880 401.395) rotate(90)" fill="#707070" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">V</tspan></text>
+        <g id="Group_5" data-name="Group 5" transform="translate(884.552 452.395) rotate(180)">
+          <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+            <text id="P" transform="translate(-0.448 49)" fill="#707070" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+          </g>
+          <g id="Group_4" data-name="Group 4" transform="translate(0 11.539)">
+            <text id="P-2" data-name="P" transform="matrix(1, 0, 0, -1, -0.448, 11.461)" fill="#707070" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line id="Line_2" data-name="Line 2" x2="288" y2="0.5" transform="translate(543.5 316)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
