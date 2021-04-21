@@ -31,4 +31,3 @@ document.querySelectorAll(".nav__link").forEach(el => {
     });
 });
 
-
