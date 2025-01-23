@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="175" viewBox="0 0 171 175">
+  <g id="Group_10" data-name="Group 10" transform="translate(-859 -380.273)">
+    <text id="V" transform="translate(910 432.273) rotate(90)" fill="#fff" font-size="111" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">V</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(921 555.273) rotate(180)">
+      <g id="Group_3" data-name="Group 3">
+        <text id="P" transform="translate(0 119)" fill="#fff" font-size="110" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(0 27.776)">
+        <text id="P-2" data-name="P" transform="matrix(1, 0, 0, -1, 0, 28.224)" fill="#fff" font-size="110" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

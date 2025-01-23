@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="551" height="388" viewBox="0 0 551 388">
+  <g id="FriendlyImg" transform="translate(-430 -387)">
+    <g id="Group_8" data-name="Group 8" transform="translate(-237.5 120.5)">
+      <g id="Group_7" data-name="Group 7" transform="translate(667.5 633.5)">
+        <path id="Path_2" data-name="Path 2" d="M0,0H144.658" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(-231.966 120.5)">
+      <g id="Group_7-2" data-name="Group 7" transform="translate(1052.5 633.5)">
+        <path id="Path_2-2" data-name="Path 2" d="M0,0H160.466" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(-239 6.727)">
+      <text id="V" transform="translate(910 432.273) rotate(90)" fill="#fff" font-size="111" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">V</tspan></text>
+      <g id="Group_5" data-name="Group 5" transform="translate(921 555.273) rotate(180)">
+        <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+          <text id="P" transform="translate(0 119)" fill="#fff" font-size="110" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(0 27.776)">
+          <text id="P-2" data-name="P" transform="matrix(1, 0, 0, -1, 0, 28.224)" fill="#fff" font-size="110" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">P</tspan></text>
+        </g>
+      </g>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="551" transform="translate(430 562)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="FRIENDLY" transform="translate(452 704)" fill="#fff" stroke="#fff" stroke-width="5" font-size="119" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">FRIENDLY</tspan></text>
+    <text id="BARBERSHOP" transform="translate(610 766)" fill="#fff" stroke="#fff" stroke-width="1" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BARBERSHOP</tspan></text>
+  </g>
+</svg>
